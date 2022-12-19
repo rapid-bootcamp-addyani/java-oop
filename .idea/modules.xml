@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java-opp-rapid.iml" filepath="$PROJECT_DIR$/java-opp-rapid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-opp.iml" filepath="$PROJECT_DIR$/java-opp.iml" />
     </modules>
   </component>
 </project>

@@ -1,2 +1,2 @@
-# java-opp-rapid
+# java-opp
 by: Addyani
